@@ -1,10 +1,26 @@
-# auto-grading-system
+# Student Performance Analysis - Week 1
 
-PROBLEM STATEMENT:
-   GenAI generates probabilistic outputs based on patterns in training data,lacking true understanding and the ability to make qualitative judgments.
+## Project Overview
+This project analyzes student exam performance using Python.
+The goal is to identify patterns based on gender, lunch type,
+and test preparation.
 
-SOLUTION:
+## Dataset
+Students Performance in Exams (Kaggle)
 
-	Programming Languages Used: Python
-    Grading assignments, essays, and open-ended questions can be a time-consuming task for educators. Generative AI can streamline this process by automatically evaluating student submissions. By training on a large dataset of previously graded assignments, the AI can recognize patterns and provide consistent, reliable grading. This not only saves educators time but also ensures a more impartial evaluation.
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## Key Insights
+- Test preparation improves reading and writing scores
+- Standard lunch students score higher
+- Gender differences exist in reading and writing
+
+## Author
+SUBHASREE SRIDHAR
+
 
